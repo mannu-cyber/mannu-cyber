@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT, REACT.JS, MONGODB, NOD.JS, BOOTSTRAP, EXPRESS.JS**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT, TAILWIND, REACT.JS, MONGODB, NOD.JS, BOOTSTRAP, EXPRESS.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mannu-cyber](https://github.com/mannu-cyber)
 

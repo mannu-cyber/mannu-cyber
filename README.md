@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mannu-cyber](https://github.com/mannu-cyber)
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, TAILWIND, LOCOMOTIVE, GSAP, SCROLL TRIGGER, BOOTSTRAP**
 
 - 📫 How to reach me **sahanimannu844@gmail.com**
 
